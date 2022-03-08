@@ -14,29 +14,8 @@ The dataset is available in an .csv format. There is one table, with three diffe
 
 ## Metadata
 Schema Used: Project Open Data
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/63226352/157176044-ebf36b63-2fc3-46d1-aed4-8ad68b16bd24.png">
 
-Attribute	Value
-accessLevel	public
-accrualPeriodicity	R/P1Y
-fn	Jamie Ramos
-hasEmail	mailto:jamiemramos18@gmail.com
-describedBy	https://github.com/jamie-ramos/municipal_recycling
-description	This dataset is a breakdown of sizes, recycling rates, and diversion rates for the cities of Palo Alto, San Francisco, and Seattle. The intended audience is municipal policymakers. This dataset was curated for a class at the University of Washington in the winter of 2020.
-accessURL	https://github.com/jamie-ramos/municipal_recycling/blob/master/2017_raw.csv
-downloadURL	https://github.com/jamie-ramos/municipal\_recycling/raw/master/2017\_raw.csv
-format	CSV
-mediaType	CSV
-issued	2020-03-15
-keyword	"recycling", "diversion", "palo alto", "seattle", "san francisco", "washington", "california"
-landingPage	https://github.com/jamie-ramos/municipal_recycling
-language	en-us
-modified	2020-03-15
-publisher	Jamie Ramos
-references	https://sfpublicworks.org/sites/default/files/Recology%20San%20Francisco%20Companies%27%20Annual%20Report%20for%20Rate%20Year%202017.pdf, http://www.seattle.gov/Documents/Departments/SPU/Documents/2017RecyclingProgramReport.pdf, https://www.cityofpaloalto.org/civicax/filebank/documents/63577, https://www.seattle.gov/Documents/Departments/SPU/Documents/2017AnnualRecyclingReport06292018Final.pdf, https://data.census.gov/cedsci/
-Rights,	These data are freely available to all people, both in this repository and their respective government repositories.
-temporal	2020/P1Y
-theme	recycling, diversion
-title	Recycling Program Comparison
 
 ## Security
 These data are freely available to the public.
