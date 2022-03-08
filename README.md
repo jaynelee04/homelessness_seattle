@@ -4,22 +4,19 @@ This readme.txt file was generated on 2021-03-01 by Jayne Lee
 
 GENERAL INFORMATION
 Readme
-This dataset was created for a course at the iSchool at the University of Washington in 2022. It is a breakdown of sizes, recycling rates, and diversion rates and costs for the cities of Palo Alto, San Francisco, and Seattle. The intended audience is municipal policymakers. It is freely available to the public.
+This dataset was created for a course at the iSchool at the University of Washington in 2022. It is a breakdown of ethncity, gender, and racial makeup of people experiencing homelessness in the state of Washington in the year 2020. It is freely available to the public.
 
 The dataset is available in an .csv format. There is one table, with three different tablet sets exemplifying the raw dataset of the three demographics of people who experience homelessness: race, gender, and ethnicity. There are no duplicate variables, and all fields have been filled; no cleaning should be necessary.
 
-Table of Contents
+#Table of Contents
 Naming
 Data Dictionary
 Metadata
 Security
 Contact
 Naming
-Naming for the files should be as follows:
 
-Where year of the data being reported, and where datasettype indicates whether it is the raw data ("raw") or the normalized data ("normal").
-
-This naming convention originally contained a third value for municipalities, indicating which municipalities are included. However, due to the possibility of a future expansion of municipal scope, this was not chosen for the final naming convention. Instead, each year should update the metadata keyword and description attributes according to any added city programs.
+Where year of the data being reported, a
 
 Data Dictionary
 Variable	Variable Name	Measurement Unit	Allowed Values	Definition
