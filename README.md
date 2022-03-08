@@ -1,4 +1,4 @@
-# homelessness_seattle
+# Demographic Data on People who are Experiencing Homelessness in Washington 2020
 This readme.txt file was generated on 2021-03-01 by Jayne Lee
 
 
