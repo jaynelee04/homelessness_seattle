@@ -17,11 +17,11 @@ HUD Curation Protocol
 3. Date of data collection (single date, range, approximate date) <suggested format YYYY-MM-DD>:
    Data was consolidated from original HUD sources the week of 2021-03-01.
 
-The original data was captured by HUD CoC sources in various dates in January 2019.
+The original data was captured by HUD CoC sources in various dates in January 2020.
 
 4. Geographic location of data collection <latitude, longiute, or city/region, State, Country, as appropriate>: 
     
-CoC data used in this dataset are composed of point in time counts of people experiencing homelessness in the King County in Seattle, Washington.
+CoC data used in this dataset are composed of point in time counts of people experiencing homelessness in Seattle, Washington of 2020.
 
 
 5. Information about funding sources that supported the collection of the data: 
