@@ -3,38 +3,20 @@ This readme.txt file was generated on 2021-03-01 by Jayne Lee
 
 
 ## GENERAL INFORMATION
-## Readme
 This dataset was created for a course at the iSchool at the University of Washington in 2022. It is a breakdown of ethncity, gender, and racial makeup of people experiencing homelessness in the state of Washington in the year 2020. It is freely available to the public.
 
 The dataset is available in an .csv format. There is one table, with three different tablet sets exemplifying the raw dataset of the three demographics of people who experience homelessness: race, gender, and ethnicity. There are no duplicate variables, and all fields have been filled; no cleaning should be necessary.
 
-## Table of Contents
-## Naming
-## Data Dictionary
 ## Metadata
 ## Security
 ## Contact
 
-Where year of the data being reported? 
-2020
-
 ## Data Dictionary
-Variable	Variable Name	Measurement Unit	Allowed Values	Definition
-city_Program	City Program	String	US city names	City name
-metal	Metal Tonnage	Numerical	Integers greater than 0	Total tonnage of metal recycled in 2017 (from city reports), different metal types added into single value
-paper	Paper Tonnage	Numerical	Integers greater than 0	Total tonnage of paper recycled in 2017 (from city reports), different paper types added into single value
-plastic	Plastic Tonnage	Numerical	Integers greater than 0	Total tonnage of plastic recycled in 2017 (from city reports), different plastic types added into single value
-average_Cost	Average Cost per Ton	Numerical	Numbers greater than 0 (USD)	Averaged cost in USD of recycling a ton of materials in 2017 (from city reports)
-diversion_Rate	Diversion Rate	Numerical	Numbers between 0-100 (percentage)	Total percentage of diverted landfill materials in 2017, pulled directly from report
-population	Population Size	Numerical	Integers greater than 0	Population size in people (Census)
-area	Area	Numerical	Numbers greater than 0 (miles squared)	Area of city in miles squared (Census)
-zmetal	ZScore of Metal Tonnage	Numerical	Any number	ZScore of total tonnage of metal recycled in 2017 (from city reports), different metal types added into single value
-zpaper	ZScore of Paper Tonnage	Numerical	Any number	ZScore of total tonnage of paper recycled in 2017 (from city reports), different paper types added into single value
-zplastic	ZScore of Plastic Tonnage	Numerical	Any number	ZScore of total tonnage of plastic recycled in 2017 (from city reports), different plastic types added into single value
-zaverage_Cost	ZScore of Average Cost per Ton	Numerical	Any number	ZScore of averaged cost of recycling a ton of materials in USD in 2017 (from city reports)
-zdiversion_Rate	ZScore of Diversion Rate	Numerical	Any number	ZScore of total percentage of diverted landfill materials in 2017, pulled directly from report
-zpopulation	ZScore of Population Size	Numerical	Any number	ZScore of population size in people (Census)
-zarea	ZScore of Area	Numerical	Any number	ZScore of area of city in miles squared (Census)
+| Variable | Variable Name | Measurement Unit | Allowed Values | Definition
+| :---         | :---         | :---         | :---         || :---         |
+| State   | Washington     | git status    |
+| Race    | git diff       | git diff     |
+| State   | git status     | git status    |
 Metadata
 Schema Used: Project Open Data
 
