@@ -2,23 +2,23 @@
 This readme.txt file was generated on 2021-03-01 by Jayne Lee
 
 
-GENERAL INFORMATION
-Readme
+## GENERAL INFORMATION
+## Readme
 This dataset was created for a course at the iSchool at the University of Washington in 2022. It is a breakdown of ethncity, gender, and racial makeup of people experiencing homelessness in the state of Washington in the year 2020. It is freely available to the public.
 
 The dataset is available in an .csv format. There is one table, with three different tablet sets exemplifying the raw dataset of the three demographics of people who experience homelessness: race, gender, and ethnicity. There are no duplicate variables, and all fields have been filled; no cleaning should be necessary.
 
-#Table of Contents
-Naming
-Data Dictionary
-Metadata
-Security
-Contact
-Naming
+## Table of Contents
+## Naming
+## Data Dictionary
+## Metadata
+## Security
+## Contact
 
-Where year of the data being reported, a
+Where year of the data being reported? 
+2020
 
-Data Dictionary
+## Data Dictionary
 Variable	Variable Name	Measurement Unit	Allowed Values	Definition
 city_Program	City Program	String	US city names	City name
 metal	Metal Tonnage	Numerical	Integers greater than 0	Total tonnage of metal recycled in 2017 (from city reports), different metal types added into single value
@@ -63,5 +63,6 @@ title	Recycling Program Comparison
 Security
 These data are freely available to the public.
 
-Contact
-Jamie Ramos jamiemramos18@gmail.com
+## Contact
+Jayne Lee
+leej675@uw.edu
