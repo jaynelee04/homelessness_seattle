@@ -7,15 +7,12 @@ This dataset was created for a course at the iSchool at the University of Washin
 
 The dataset is available in an .csv format. There is one table, with three different tablet sets exemplifying the raw dataset of the three demographics of people who experience homelessness: race, gender, and ethnicity. There are no duplicate variables, and all fields have been filled; no cleaning should be necessary.
 
-## Metadata
-## Security
-## Contact
 
 ## Data Dictionary
 <img width="589" alt="image" src="https://user-images.githubusercontent.com/63226352/157173590-b693056c-868c-4697-8cd5-379881d5d90d.png">
 
 
-Metadata
+## Metadata
 Schema Used: Project Open Data
 
 Attribute	Value
@@ -40,7 +37,8 @@ Rights,	These data are freely available to all people, both in this repository a
 temporal	2020/P1Y
 theme	recycling, diversion
 title	Recycling Program Comparison
-Security
+
+## Security
 These data are freely available to the public.
 
 ## Contact
