@@ -12,11 +12,8 @@ The dataset is available in an .csv format. There is one table, with three diffe
 ## Contact
 
 ## Data Dictionary
-Variable	Variable Name	Measurement Unit	Allowed Values	Definition
-State	Washington	-	US State name	State name
-Race	African-American or Black, White, Asian, Native Hawaiian or Pacific Islander, American Indian or Alaskan Native, Multiple Races	Numerical	Integers greater than 0	Total tonnage of metal recycled in 2017 (from city reports), different metal types added into single value
-Ethinicity		Numerical	Integers greater than 0	Total tonnage of paper recycled in 2017 (from city reports), different paper types added into single value
-Gender		Numerical	Integers greater than 0	Total tonnage of plastic recycled in 2017 (from city reports), different plastic types added into single value<img width="589" alt="image" src="https://user-images.githubusercontent.com/63226352/157172769-798d9409-b45f-4a7e-a1cd-2e3a21d173af.png">
+<img width="589" alt="image" src="https://user-images.githubusercontent.com/63226352/157173590-b693056c-868c-4697-8cd5-379881d5d90d.png">
+
 
 Metadata
 Schema Used: Project Open Data
